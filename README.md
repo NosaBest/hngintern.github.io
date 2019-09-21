@@ -2,7 +2,4 @@
 
 Begin now
 
-final copy
-
-learning to merge
 
